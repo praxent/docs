@@ -1,0 +1,14 @@
+site_name: Placeholder Name Documentation
+repo_url: http://praxent.com
+site_favicon: http://praxent.com/wp-content/uploads/favicon.ico
+pages:
+  - 'Overview': index.md
+  - 'Project Architecture': project_architecture.md
+  - 'Environments': environments.md
+  - 'Dependencies': dependencies.md
+  - 'Local Set-up': local_setup.md
+  - 'Deployment': deployment.md
+  - 'Features': features.md
+  - 'Helpful Notes': helpful_notes.md
+  - 'Testing': testing.md
+  - 'Contributing': contributing.md
